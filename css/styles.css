@@ -1,0 +1,23 @@
+body{
+	text-align: center;
+	background-color:black;
+}
+.header{
+	background-image: url("../img/animated.gif");
+	padding:7% 0;
+}
+#ping{
+	font-size: 100px;
+	color :purple;
+}
+.play{
+	background-color: white;
+	padding:5% 0;
+}
+.plong{
+   background-color: black;
+}
+#rules{
+  font-size: 50px;
+  font-style: italic;  
+}
